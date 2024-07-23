@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Definición del Proyecto
+Este proyecto es una aplicación web que facilita la búsqueda y referencia de comandos de Linux. Has desarrollado esta aplicación utilizando tecnologías como React para el frontend y la has desplegado en Vercel para que sea accesible en línea. A continuación, te proporciono una definición más formal:
+
+# Descripción del Proyecto:
+El Glosario de Comandos de Linux es una aplicación web interactiva desarrollada con React que permite a los usuarios buscar y consultar una variedad de comandos de Linux. La aplicación está diseñada para ayudar tanto a principiantes como a usuarios avanzados a encontrar rápidamente la sintaxis y el uso de diferentes comandos de Linux. Está alojada en Vercel, lo que garantiza un despliegue eficiente y accesible globalmente.
+
 ## Available Scripts
 
 In the project directory, you can run:
